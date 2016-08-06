@@ -334,11 +334,11 @@
             </objects>
             <point key="canvasLocation" x="834" y="1598"/>
         </scene>
-        <!--Navigation Controller-->
+        <!--Options-->
         <scene sceneID="mms-st-jHN">
             <objects>
                 <navigationController id="fRr-Fi-340" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" systemItem="more" id="BAc-mi-T60"/>
+                    <tabBarItem key="tabBarItem" title="Options" image="Settings" id="BAc-mi-T60"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="UTC-9y-3cE">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -436,6 +436,7 @@
         </scene>
     </scenes>
     <resources>
+        <image name="Settings" width="30" height="30"/>
         <image name="TabSaved" width="30" height="30"/>
     </resources>
     <inferredMetricsTieBreakers>

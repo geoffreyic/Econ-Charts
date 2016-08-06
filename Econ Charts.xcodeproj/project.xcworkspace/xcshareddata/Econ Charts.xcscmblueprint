@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "AFB2F798B24104C9BBDAC8A00D854527069CB69E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "74067F66F4357ED55571EEBAE34486A480BE98C7" : 0,
+    "AFB2F798B24104C9BBDAC8A00D854527069CB69E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1F26CC1B-E42F-4672-B966-921DBB50B1CC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "74067F66F4357ED55571EEBAE34486A480BE98C7" : "VirtualTourist\/",
+    "AFB2F798B24104C9BBDAC8A00D854527069CB69E" : "Economic%20Charts\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Econ Charts",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Econ Charts.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/geoffreyic\/udacity-ios-virtual-tourist.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "74067F66F4357ED55571EEBAE34486A480BE98C7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/geoffreyic\/Econ-Charts.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AFB2F798B24104C9BBDAC8A00D854527069CB69E"
+    }
+  ]
+}
